@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.13",
     "@emotion/babel-plugin": "^11.10.0",
     "@types/node": "^18.7.7",
     "@types/react": "^18.0.17",

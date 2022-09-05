@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.13",
     "@emotion/babel-plugin": "^11.10.0",
     "@types/node": "^18.7.7",
     "@types/react": "^18.0.17",
@@ -29,7 +30,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-react": "^7.30.1",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "eslint-plugin-simple-import-sort": "^8.0.0",
     "prettier": "2.7.1",
     "typescript": "^4.7.4",
     "vite": "^3.0.9",

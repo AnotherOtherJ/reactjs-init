@@ -16,7 +16,7 @@ export default defineConfig({
   plugins: [
     react({
       babel: {
-        plugins: ["@emotion/babel-plugin"],
+        plugins: ["@emotion"],
       },
     }),
     VitePWA({

@@ -18,7 +18,7 @@ specifiers:
   eslint-plugin-import: ^2.26.0
   eslint-plugin-react: ^7.31.10
   eslint-plugin-react-hooks: ^4.6.0
-  eslint-plugin-simple-import-sort: ^8.0.0
+  eslint-plugin-simple-import-sort: ^9.0.0
   framer-motion: ^7.6.7
   prettier: 2.7.1
   react: ^18.2.0
@@ -50,7 +50,7 @@ devDependencies:
   eslint-plugin-import: 2.26.0_bbzxof3vtngyannf3l4jlcflvy
   eslint-plugin-react: 7.31.10_eslint@8.27.0
   eslint-plugin-react-hooks: 4.6.0_eslint@8.27.0
-  eslint-plugin-simple-import-sort: 8.0.0_eslint@8.27.0
+  eslint-plugin-simple-import-sort: 9.0.0_eslint@8.27.0
   prettier: 2.7.1
   typescript: 4.9.3
   vite: 3.2.4_@types+node@18.11.9
@@ -2616,8 +2616,8 @@ packages:
       string.prototype.matchall: 4.0.8
     dev: true
 
-  /eslint-plugin-simple-import-sort/8.0.0_eslint@8.27.0:
-    resolution: {integrity: sha512-bXgJQ+lqhtQBCuWY/FUWdB27j4+lqcvXv5rUARkzbeWLwea+S5eBZEQrhnO+WgX3ZoJHVj0cn943iyXwByHHQw==}
+  /eslint-plugin-simple-import-sort/9.0.0_eslint@8.27.0:
+    resolution: {integrity: sha512-PtrLjyXP8kjRneWT1n0b99y/2Fyup37we7FVoWsI61/O7x4ztLohzhep/pxI/cYlECr/cQ2j6utckdvWpVwXNA==}
     peerDependencies:
       eslint: '>=5.0.0'
     dependencies:
